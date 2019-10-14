@@ -1,0 +1,33 @@
+[
+  {
+    "question": "Hãy dịch: 'Người Việt Nam không xả rác'",
+    "answers": [
+      {
+        "score": 2,
+        "content": "Vietnamese do not litter"
+      },
+      {
+        "score": 1,
+        "content": "Vietnamese don't litter"
+      }
+    ]
+  },
+  {
+    "question": "Hãy dịch: 'Chùa phải là nơi phụng sự, cống hiến, hy sinh quên mình'",
+    "answers": [
+      {
+        "score": 1,
+        "content": "The temple must be a place of service, dedication, self-sacrifice"
+      }
+    ]
+  },
+  {
+    "question": "Hãy dịch: 'Chùa phải là nơi tĩnh tâm tu tập, đặc biệt là tu tập Thiền định'",
+    "answers": [
+      {
+        "score": 1,
+        "content": "The temple must be a place of retreat, especially meditation practice"
+      }
+    ]
+  }
+]
