@@ -1,5 +1,7 @@
 # faster-app
 
+### Lưu ý: Project này chỉ nhằm demo một ý tưởng đơn giản.
+
 ## Project setup
 ```
 yarn install

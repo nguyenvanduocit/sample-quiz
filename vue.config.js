@@ -2,7 +2,7 @@ const path = require('path')
 const CircularDependencyPlugin = require('circular-dependency-plugin')
 module.exports = {
   pwa: {
-    name: 'Faster',
+    name: 'Quizz',
     appleMobileWebAppCapable: 'yes',
     appleMobileWebAppStatusBarStyle: 'black',
     workboxOptions: {
